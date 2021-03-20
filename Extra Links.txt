@@ -1,0 +1,4 @@
+https://www.scrapehero.com/how-to-prevent-getting-blacklisted-while-scraping/
+https://chrome.google.com/webstore/detail/nocoding-data-scraper-sim/ojaffphbffmdaicdkahnmihipclmepok?hl=en
+https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden
+https://docs.scrapy.org/en/latest/
